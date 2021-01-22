@@ -20,17 +20,3 @@ if int_a <= int_b:
         print(int_c, int_a, int_b)
     else:
         print(int_a, int_c, int_b)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
